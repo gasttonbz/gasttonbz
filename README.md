@@ -19,4 +19,4 @@
 </p>
 
 <p>Me podes encontrar en Likedin como <i>gasttonbz</i></p>
-<p>Me puedes contactar a 👉 <strong>gasttonbz@gmail.com</strong> 📧</p>
+<p>Tambien me podes contactar a 👉 <strong>gasttonbz@gmail.com</strong></p>
