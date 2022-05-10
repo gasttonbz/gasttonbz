@@ -1,8 +1,13 @@
 <h1>Hola! Soy Gastón</h1>
 <h2>Soy un apasionado por la tecnología y la innovación</h2>
-Me encanta aprender cosas nuevas
-Soy Desarrollador Web Frontend, aunque a futuro mi objetivo es ser Full Stack
-Hablo español pero tambien estoy estudiando Inglés
+<ul>
+  <li>Me encanta aprender cosas nuevas</li>
+  <li>Soy Desarrollador Web Frontend, aunque a futuro mi objetivo es ser Full Stack</li>
+  <li>Hablo español pero tambien estoy estudiando Inglés</li>
+</ul>
+
+
+
 Las tecnologías que utilizo son
 
 <p align="left">
