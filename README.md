@@ -1,12 +1,12 @@
 <h1>Hola! Soy Gastón 👋</h1>
-<h2>Soy un apasionado por la tecnología y la innovación 💻💙</h2>
+<h4>Soy un apasionado por la tecnología y la innovación 💻💙</h4>
 <ul>
   <li>Me encanta aprender cosas nuevas 📚</li>
   <li>Soy Desarrollador Web Frontend, aunque a futuro mi objetivo es ser Full Stack 👨‍💻</li>
   <li>Hablo español pero tambien estoy estudiando Inglés 💬</li>
 </ul>
 
-<h3 align="left">Las tecnologías que utilizo son:</h3>
+<h4 align="left">Las tecnologías que utilizo son:</h4>
 
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
