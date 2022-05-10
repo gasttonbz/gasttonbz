@@ -18,5 +18,5 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-<p>Me podes encontrar en Likedin como <i>gasttonbz</i></p>
+<p>Me podes encontrar en Linkedin como <strong>gasttonbz</strong></p>
 <p>Tambien me podes contactar a 👉 <strong>gasttonbz@gmail.com</strong></p>
