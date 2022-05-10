@@ -19,4 +19,4 @@
 </p>
 
 <p>Me podes encontrar en Linkedin como <strong>gasttonbz</strong></p>
-<p>Tambien me podes contactar a 👉 <strong>gasttonbz@gmail.com</strong></p>
+<p>También me podes contactar a 👉 <strong>gasttonbz@gmail.com</strong></p>
