@@ -18,4 +18,5 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-<h4>Me puedes contactar a 👉 <b>gasttonbz@gmail.com</b> 📧</h4>
+<h4>Mi Linkedin 👉 <a href:"https://www.linkedin.com/in/gasttonbz/">gasttonbz</a></h4>
+<h4>Me puedes contactar a 👉 gasttonbz@gmail.com 📧</h4>
